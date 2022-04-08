@@ -22,12 +22,12 @@ int main(void)
 
 					/* your code goes there */
 				if (n > 0) {
-					return ("is positive");
+					printf ("is positive");
 				} else {
 					if (n == 0) {
-						return ("is zero");
+						printf ("is zero");
 					} else {
-						return ("is negative");
+						printf ("is negative");
 					};
 				};
 
