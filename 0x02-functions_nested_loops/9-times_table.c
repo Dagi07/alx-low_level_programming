@@ -1,4 +1,10 @@
 #include "main.h"
+
+/**
+ * times_table - a function that prints every minute of the day of times_table,
+ * 
+ * Return: On success new line.
+ */
 void times_table(void)
 {
 	int x, y, product;
