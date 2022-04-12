@@ -3,7 +3,7 @@
 /**
  * main - check the code
  *
- * Return: The result.
+ * Return: Always 0.
  */
 int add(int x, int y)
 {
