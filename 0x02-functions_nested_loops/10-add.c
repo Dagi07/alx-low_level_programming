@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - is a function that add two integers x and y.
- * x is an integer
- * Y is an integer
+ * add - is a function that adds two integers
+ * @x: is an integer
+ * @y: is an integer
  *
  * Return: the sum of x and y.
  */
