@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - accept two integers
+ * main - is a function that add two integers 'x' and 'y'.
  *
- * Return: their sum.
+ * Return: the sum of 'x' and 'y'.
  */
 int add(int x, int y)
 {
