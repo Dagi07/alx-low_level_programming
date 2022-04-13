@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - accept two integers
  *
- * Return: Always 0.
+ * Return: their sum.
  */
 int add(int x, int y)
 {
