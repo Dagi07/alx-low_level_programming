@@ -2,7 +2,7 @@
 
 /**
  * print_sign - check the code
- * int n - integer parameter of print_sign.
+ * @n: The number to be checked
  * Return: 1 or 0 or -1.
  */
 int print_sign(int n)
