@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * print_sign - check the code and accepts integer n.
  * 
- * Return: Always 0.
+ * Return: 1 or 0 or -1.
  */
 int print_sign(int n)
 {
