@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_sign - check the code 
- * n: ibteger parameter of print_sign.
+ * print_sign - check the code
+ * n: integer parameter of print_sign.
  * Return: 1 or 0 or -1.
  */
 int print_sign(int n)
