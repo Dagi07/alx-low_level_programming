@@ -1,21 +1,17 @@
-#include <stdio.h>
 #include "main.h"
+#include <stdio.h>
 
 /**
  * reset_to_98 - updates value of *n
  * Return: nothing
  */
-void reset_to_98(int *n)
-{
-  *n = 98;
-}
+void reset_to_98(int *n) { *n = 98; }
 
 /**
  * main - check the code
  * Return: Always 0
  */
-int main(void)
-{
+int main(void) {
   int n;
 
   n = 402;
