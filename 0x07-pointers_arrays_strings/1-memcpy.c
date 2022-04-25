@@ -1,7 +1,3 @@
-/*
- * File: 1-memcpy.c
- */
-
 #include "main.h"
 
 /**
