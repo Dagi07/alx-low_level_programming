@@ -22,3 +22,4 @@ void *_memset(void *s, int c, size_t n)
 		memory[index] = value;
 
 	return (memory);
+}
