@@ -2,6 +2,7 @@
 #define MAIN_H
 
 /**
+ * File: main.h
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x06-pointers_arrays_strings directory.
  */
@@ -20,5 +21,3 @@ void print_diagsums(int *a, int size);
 void set_string(char **s, char *to);
 
 #endif
-© 2022 GitHub, Inc.
-Terms
