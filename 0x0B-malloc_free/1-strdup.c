@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
 #include <stdlib.h>
 /**
@@ -25,4 +25,4 @@ char *_strdup(char *str)
 	for (i = 0; i < (strSize); i++)
 		*(copyStr + i) = *(str + i);
 	return (copyStr);
-}1-strdup.c
+}
